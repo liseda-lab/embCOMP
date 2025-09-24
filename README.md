@@ -49,7 +49,5 @@ This repository is a curated version of the code used in the study. It contains 
 ---
 
 ## Acknowledgments
-This work was supported by the **LASIGE Research Unit** (ref. UID/00408/2025) and partially supported by the **CancerScan project**, funded by the European Union’s Horizon Europe Research and Innovation Action (EIC Pathfinder Open) under grant agreement No. **101186829**.  
-
-Pedro Cotovio and Lucas Ferraz acknowledge **Fundação para a Ciência e a Tecnologia** for PhD grants **2022.10557.BD** and **2025.04034.BD**, respectively.
+This work was supported by the **LASIGE Research Unit** (ref. UID/00408/2025) and partially supported by the **CancerScan project**, funded by the European Union’s Horizon Europe Research and Innovation Action (EIC Pathfinder Open) under grant agreement No. **101186829**.  Views and opinions expressed are however those of the author(s) only and do not necessarily reflect those of the European Union or the European Innovation Council and SMEs Executive Agency. Neither the European Union nor the granting authority can be held responsible for them. Pedro Cotovio and Lucas Ferraz acknowledge **Fundação para a Ciência e a Tecnologia** for PhD grants **2022.10557.BD** and **2025.04034.BD**, respectively.
 
